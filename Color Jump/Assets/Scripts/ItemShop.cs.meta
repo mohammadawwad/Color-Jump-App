@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 82658a3ffabed64429db3f7b82706be9
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - WhiteFace_0: {fileID: 799034240276205098, guid: 5736ec56a03759a4095d24589c186648,
+      type: 3}
+  - sr: {instanceID: 0}
+  - player: {instanceID: 0}
+  - cc: {instanceID: 0}
+  - Knob: {fileID: 10913, guid: 0000000000000000f000000000000000, type: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
